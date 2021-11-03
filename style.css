@@ -12,3 +12,11 @@ body {
 	width: 280px;
 	background: #0bb5f4 ;
 }
+.right .resume_photo {
+	width: 100%;
+	height: 280px;
+}
+.right .resume_photo img {
+	width: 100%;
+	height: 100%;
+}

@@ -1,5 +1,7 @@
 * {
 	font-family: "Montserrat", sans-serif;
+	box-sizing: border-box;
+	margin:0;
 }
 
 body {
@@ -51,4 +53,27 @@ body {
 }
 .resume .right ul li .data {
 	color: #b1eaff;
+}
+.resume .left {
+	width: 520px;
+	background: #fff;
+	padding: 25px;
+}
+.resume .item_left {
+	padding: 25px 0;
+	border-bottom: 2px solid #b1eaff;
+
+}
+.resume .left .name {
+	margin-bottom: 20px;
+}
+.resume .item_left .left .bold {
+	font-weight: 700;
+	font-size: 20px;
+	text-transform: uppercase;
+	color: #0bb5f4;
+}
+.resume .item_left .left ul {
+padding-left: 40px;
+overflow: :hidden;
 }

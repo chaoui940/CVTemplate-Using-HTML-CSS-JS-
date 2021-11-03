@@ -25,3 +25,30 @@ body {
 	padding: 25px 0;
     border-bottom: 2px solid #b1eaff;
 }
+.resume .name {
+	margin-bottom: 15px;
+}
+.bold {
+	font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.resume .right .bold {
+	color: #fff;
+}
+
+.resume .right .regular {
+	color: #b1eaff;
+}
+
+.resume .right ul li {
+	align-items: center;
+	display: flex;
+	margin-bottom: 10px;
+}
+.resume .right .resume_item_right_skills ul li {
+	color: #b1eaff;
+}
+.resume .right ul li .data {
+	color: #b1eaff;
+}
